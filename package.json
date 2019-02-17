@@ -1,0 +1,20 @@
+{
+  "name": "next-portfolio",
+  "version": "1.0.0",
+  "description": "next sample project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next"
+  },
+  "keywords": [
+    "next",
+    "sample"
+  ],
+  "author": "prajita sinha",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^8.0.1",
+    "react": "^16.8.2",
+    "react-dom": "^16.8.2"
+  }
+}
